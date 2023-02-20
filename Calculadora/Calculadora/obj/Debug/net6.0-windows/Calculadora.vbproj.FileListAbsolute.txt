@@ -1,0 +1,17 @@
+D:\VS-2022\Repos\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.vbproj.AssemblyReference.cache
+D:\VS-2022\Repos\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.Form1.resources
+D:\VS-2022\Repos\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.vbproj.GenerateResource.cache
+D:\VS-2022\Repos\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS-2022\Repos\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfoInputs.cache
+D:\VS-2022\Repos\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfo.vb
+D:\VS-2022\Repos\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.vbproj.CoreCompileInputs.cache
+D:\VS-2022\Repos\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.exe
+D:\VS-2022\Repos\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.deps.json
+D:\VS-2022\Repos\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.runtimeconfig.json
+D:\VS-2022\Repos\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.dll
+D:\VS-2022\Repos\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.pdb
+D:\VS-2022\Repos\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.dll
+D:\VS-2022\Repos\Calculadora\Calculadora\obj\Debug\net6.0-windows\refint\Calculadora.dll
+D:\VS-2022\Repos\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.pdb
+D:\VS-2022\Repos\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.genruntimeconfig.cache
+D:\VS-2022\Repos\Calculadora\Calculadora\obj\Debug\net6.0-windows\ref\Calculadora.dll
